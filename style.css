@@ -118,7 +118,7 @@ h1 {
 .footer {
   position: relative;
   display: flex;
-  color: white;
+  color: blue;
   background-color: #226ce0;
   justify-content: center;
   align-items: center;
